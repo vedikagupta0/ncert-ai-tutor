@@ -46,7 +46,7 @@ with st.sidebar:
 st.markdown(
     """
     <div class="chat-container">
-        <h1>📚 NCERT Class 11–12 AI Tutor</h1>
+        <h1>📚 NCERT Class 6–12 AI Tutor</h1>
         <p style="color: gray;">
             Ask NCERT-based questions and get clear, exam-focused answers.
         </p>
