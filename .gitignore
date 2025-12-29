@@ -27,11 +27,6 @@ Thumbs.db
 # ---------- Logs ----------
 *.log
 
-# ---------- FAISS / Vector DB ----------
-faiss_index/
-*.faiss
-*.index
-*.zip
 
 # ---------- Cache ----------
 .cache/
